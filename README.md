@@ -6,7 +6,7 @@
 
 1. **Entregáveis:** O plano deve incluir uma descrição completa dos entregáveis e resultados esperados em cada fase do projeto, desde o planejamento até o suporte pós-produção.
 2. **Fases e atividades:** O processo é dividido em diversas fases (planejamento, design, realização, teste, transferência e suporte). O framework também especifica as atividades e entregas específicas para cada fase, garantindo que todos os aspectos da implantação sejam levados em consideração.
-3. **Plano Detalhado: **Um plano detalhado deve incluir protocolos de comunicação, backups, pessoal, sistemas de monitoramento e relatórios.
+3. **Plano Detalhado:** Um plano detalhado deve incluir protocolos de comunicação, backups, pessoal, sistemas de monitoramento e relatórios.
 4. **Comunicação e Colaboração:** Durante todo o processo, o plano enfatiza a comunicação e a colaboração entre a equipe do projeto e os grupos-chave. Isso garante que as informações sejam trocadas e acordadas.
 5. **Testes e Validação:** Antes da transferência real para o local de produção, a estrutura recomenda testes de corte e simulações ao vivo para validar os planos e identificar possíveis problemas.
 6. **Avaliação de sucesso:** Os autores enfatizam a importância de avaliar o sucesso da proibição após sua implementação, usando KPIs (por exemplo, número de atividades, diferença entre os tempos planejados e reais), bem como workshops. Identifique oportunidades de melhoria e aprenda a persistir.
